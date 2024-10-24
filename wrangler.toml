@@ -8,7 +8,7 @@ custom_domain = true
 pattern = "quiz.int.vidio.com.mlay.bmkg.xyz"
 custom_domain = true
 [vars]
-PROXYIP = "210.186.12.241"
+PROXYIP = "210.186.12.240"
  # 35.219.15.90 ID
  # 51.79.254.182
  # 35.219.50.99 ID
